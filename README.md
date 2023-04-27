@@ -32,7 +32,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 Intake
 <p>
-<img src="https://i.imgur.com/omL93sP.png" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/wjbnFea.png" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 The image above shows the Intake of current tickets that have been created. These tickets are ready to be assigned and resolved.
@@ -65,7 +65,7 @@ Karen is coordinating with the Systems administrator team to get banking back on
 <p>
 Resolution
 </p>
-<img src="https://i.imgur.com/z388ajV.png" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/qGZRh9t.png" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Karen reported that Jerry from Systems Engineering team found a solution to the problem.
