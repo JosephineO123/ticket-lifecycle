@@ -30,40 +30,40 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <h2>Lifecycle Stages</h2>
 
 
-INTAKE
+Intake
 <p>
 <img src="https://i.imgur.com/omL93sP.png" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Intake of current tickets that have been created. These tickets are ready to be assigned and resolved.
+The image above shows the Intake of current tickets that have been created. These tickets are ready to be assigned and resolved.
 </p>
 <br />
 
 
 <p>
-ASSIGNMENT AND COMMUNICATION
+Assignment and Communication 
 </p>
 <img src="https://i.imgur.com/NF9s0o8.png" alt="Disk Sanitization Steps"/>
 </p>
 <img src="https://i.imgur.com/03LF8TI.png" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Ticket #152221 has been assigned to Jane Doe and she has updated the severity to "emergency". This ticket has an SLA of 1 hour according to the priority level "SEV A" that Jane Doe assigned the ticket.
+Ticket number 152221 has been assigned to Jane Doe. She has updated the severity to "emergency". This ticket has an SLA of 1 hour according to the priority level "SEV A" that Jane Doe assigned the ticket.
 </p>
 <br />
 
 <p>
-WORKING ISSUE
+Working Issue 
 </p>
 <img src="https://i.imgur.com/y7jedhs.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Karen is coordinating with the Systems admin team to get banking back online and solve the issue.
+Karen is coordinating with the Systems administrator team to get banking back online and solve the issue.
 </p>
 <br />
 
 <p>
-RESOLUTION
+Resolution
 </p>
 <img src="https://i.imgur.com/z388ajV.png" width="80%" alt="Disk Sanitization Steps"/>
 </p>
