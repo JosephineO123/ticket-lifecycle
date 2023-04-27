@@ -8,7 +8,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 <h2>Video Demonstration</h2>
 
-- ### [YouTube: How to create, work, and resolves tickets within osTicket](https://www.youtube.com)
+- ### [YouTube: How to create, work, and resolves tickets within osTicket](https://www.youtube.com/watch?v=qbxlwP0RQwY)
 
 <h2>Environments and Technologies Used</h2>
 
@@ -29,26 +29,45 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 <h2>Lifecycle Stages</h2>
 
+
+INTAKE
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/omL93sP.png" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Intake of current tickets that have been created. These tickets are ready to be assigned and resolved.
+</p>
+<br />
+
+
+<p>
+ASSIGNMENT AND COMMUNICATION
+</p>
+<img src="https://i.imgur.com/NF9s0o8.png" alt="Disk Sanitization Steps"/>
+</p>
+<img src="https://i.imgur.com/03LF8TI.png" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Ticket #152221 has been assigned to Jane Doe and she has updated the severity to "emergency". This ticket has an SLA of 1 hour according to the priority level "SEV A" that Jane Doe assigned the ticket.
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+WORKING ISSUE
+</p>
+<img src="https://i.imgur.com/y7jedhs.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Karen is coordinating with the Systems admin team to get banking back online and solve the issue.
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+RESOLUTION
+</p>
+<img src="https://i.imgur.com/z388ajV.png" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Karen reported that Jerry from Systems Engineering team found a solution to the problem.
 </p>
 <br />
